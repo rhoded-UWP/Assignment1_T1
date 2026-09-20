@@ -26,6 +26,13 @@ BANNER = """
 |________||_____|__|  |__||_____|__|
 """
 
+MY_NAME = """
+DDDDDD    AAAAAA   N  N
+DD   DD   A    A   NN N
+DD   DD   AAAAAA   N NN
+DDDDDD    A    A   N  N
+"""
+
 print(BANNER)
 print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
@@ -33,3 +40,4 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+print(MY_NAME)
